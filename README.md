@@ -1,8 +1,8 @@
-# Restaurant-Website-Using-HTML-CSS-and-JavaScriptS
+# ** Restaurant-Website-Using-HTML-CSS-and-JavaScriptS**
 
 This is a simple restaurant website built using HTML, CSS, and JavaScript.
 
-##Features
+## **Features**
 Responsive design that adapts to different screen sizes
 Navigation menu that collapses into a hamburger menu on small screens
 Interactive menu with images and prices
@@ -11,7 +11,7 @@ Google Maps integration that displays the restaurant's location
 Smooth scrolling to anchor links
 
 
-##Screenshots
+##  **Screenshots**
 ![Restaurant Website Screenshot of Homepage](https://i.imgur.com/abcdefg.png)
 
 
@@ -25,7 +25,7 @@ Smooth scrolling to anchor links
 
 
 
-##Technologies Used
+## **Technologies Used**
 
 HTML
 CSS
@@ -33,15 +33,15 @@ JavaScript
 Google Maps API
 
 
-##How to Run Locally
-Clone the repository: git clone https://github.com/your-username/Restaurant-Website-Using-HTML-CSS-and-JavaScript.git
-Navigate to the project directory: cd Restaurant-Website-Using-HTML-CSS-and-JavaScript
+## **How to Run Locally**
+Clone the repository: git clone **https://github.com/Fatao/Restaurant-Website-Using-HTML-CSS-and-JavaScriptS**
+Navigate to the project directory: cd Restaurant-Website-Using-HTML-CSS-and-JavaScriptS
 Open index.html in your web browser
 
 
-##Contributing
+## **Contributing**
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or would like to suggest a new feature.
 
-##Credits
+##  **Credits**
 This project was created by [**Bold Link Text**](URL)
  
