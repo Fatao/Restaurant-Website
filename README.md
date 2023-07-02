@@ -1,4 +1,4 @@
-# ** Restaurant-Website-Using-HTML-CSS-and-JavaScriptS**
+# **Restaurant-Website-Using-HTML-CSS-and-JavaScriptS**
 
 This is a simple restaurant website built using HTML, CSS, and JavaScript.
 
@@ -35,7 +35,9 @@ Google Maps API
 
 ## **How to Run Locally**
 Clone the repository: git clone **https://github.com/Fatao/Restaurant-Website-Using-HTML-CSS-and-JavaScriptS**
-Navigate to the project directory: cd Restaurant-Website-Using-HTML-CSS-and-JavaScriptS
+
+Navigate to the project directory:
+$ cd Restaurant-Website-Using-HTML-CSS-and-JavaScriptS
 Open index.html in your web browser
 
 
@@ -43,5 +45,5 @@ Open index.html in your web browser
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or would like to suggest a new feature.
 
 ##  **Credits**
-This project was created by [**Bold Link Text**](URL)
+This project was created by [**ABDULRAHAMAN ABDUL FATAO**](https://github.com/Fatao)
  
